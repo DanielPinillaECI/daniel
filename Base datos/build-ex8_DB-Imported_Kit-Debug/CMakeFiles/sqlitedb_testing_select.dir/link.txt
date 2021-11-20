@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/sqlitedb_testing_select.dir/select_db.cpp.o  -o sqlitedb_testing_select  -lsqlite3 

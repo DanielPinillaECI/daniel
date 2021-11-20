@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sergiocaballero/Documents/proyecto/ALSE2120/base_de_datos/ALSE2120/ex8_DB/select_db.cpp
+stdio.h
+-
+stdlib.h
+-
+sqlite3.h
+-
+string
+-
+iostream
+-
+
