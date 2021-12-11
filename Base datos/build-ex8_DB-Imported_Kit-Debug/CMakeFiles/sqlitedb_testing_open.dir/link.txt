@@ -1,1 +1,0 @@
-/usr/bin/g++  -g  -rdynamic CMakeFiles/sqlitedb_testing_open.dir/open_db.cpp.o  -o sqlitedb_testing_open  -lsqlite3 

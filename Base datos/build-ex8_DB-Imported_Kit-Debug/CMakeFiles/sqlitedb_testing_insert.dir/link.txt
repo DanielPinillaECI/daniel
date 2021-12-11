@@ -1,1 +1,0 @@
-/usr/bin/g++  -g  -rdynamic CMakeFiles/sqlitedb_testing_insert.dir/insert_db.cpp.o  -o sqlitedb_testing_insert  -lsqlite3 

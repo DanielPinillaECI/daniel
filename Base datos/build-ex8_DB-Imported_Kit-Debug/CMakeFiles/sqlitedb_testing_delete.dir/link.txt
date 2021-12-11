@@ -1,1 +1,0 @@
-/usr/bin/g++  -g  -rdynamic CMakeFiles/sqlitedb_testing_delete.dir/delete_db.cpp.o  -o sqlitedb_testing_delete  -lsqlite3 
